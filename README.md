@@ -5,7 +5,7 @@ This repository is designed to help you understand how deep learning works in te
 ---
 
 ## Why use Google Colab?
-- ✅ Free & Easy Access to GPUs/TPUs
+-✅ Free & Easy Access to GPUs/TPUs
 Provides free access to GPUs (T4, P100, etc.) and TPUs without needing expensive hardware.
 
 No setup required—just open a notebook and start coding.
