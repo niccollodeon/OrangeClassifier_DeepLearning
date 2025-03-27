@@ -1,4 +1,4 @@
-# Orange Classifier in Deep Learning using EfficientNetB0
+## Orange Classifier in Deep Learning using EfficientNetB0
 
 This repository is designed to help you understand how deep learning works in terms of classifying a specific image(as for my case, it's an orange fruit). In this code we will be focusing on using colab for users facing difficulties when training with their actual devices.
 
